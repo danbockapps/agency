@@ -292,6 +292,12 @@ header .hed-subhed .subhed-text {
   text-shadow: 2px 2px 4px black;
 }
 
+.subhed-list {
+  font-size: 25px;
+  text-shadow: 2px 2px 4px black;
+  margin-bottom: 35px;
+}
+
 @media(min-width:768px) {
   header .hed-subhed {
     padding-top: 280px;
@@ -304,7 +310,7 @@ header .hed-subhed .subhed-text {
 
   header .hed-subhed .subhed-text {
     font-size: 55px;
-    margin-bottom: 75px;
+    margin-bottom: 35px;
   }
 }
 
